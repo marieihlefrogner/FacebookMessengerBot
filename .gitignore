@@ -1,0 +1,13 @@
+.vscode
+Screenshots
+__pycache__
+data
+.DS_Store
+config.py
+.scp
+*.ini
+*.db
+wsgi.py
+.git-backup
+Procfile
+requirements.txt
